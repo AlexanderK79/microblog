@@ -34,3 +34,11 @@ tutorial gevolgd
 chapter V code gedownload
 
 
+chapter VI gedaan
+voor db changes:
+
+bijwerken models.py
+flask db migrate -m "commentaar"
+flask db upgrade
+
+
