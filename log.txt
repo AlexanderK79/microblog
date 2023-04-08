@@ -1,0 +1,36 @@
+https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world
+python -m venv venv
+venv\Scripts\activate
+pip install flask
+python.exe -m pip install --upgrade pip
+
+
+python
+import flask
+success!
+
+created:
+app\__init__.py
+app\routes.py
+microblog.py
+
+set FLASK_APP=microblog.py
+
+flask run
+success!
+
+pip install python-dotenv
+created .flaskenv
+
+debug flask in VS Code: https://code.visualstudio.com/docs/python/tutorial-flask
+check adjusted launch.json
+
+aanpassing doorgevoerd, zodat server reload als er changes gedetecteerd worden
+
+pip install flask-wtf
+
+tutorial gevolgd
+
+chapter V code gedownload
+
+
