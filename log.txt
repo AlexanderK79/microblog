@@ -42,3 +42,6 @@ flask db migrate -m "commentaar"
 flask db upgrade
 
 
+chapter vii: launch.json opties met elkaar in lijn brengen (FLASK_DEBUG en --no-debugger) om te zorgen dat 
+de debug errors naar VScode of naar de browser gaan; dit geldt ook voor de custom error messages
+
